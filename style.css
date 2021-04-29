@@ -12,13 +12,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: teal;
+  background: linear-gradient(to right, #c9d6ff, #e2e2e2); 
 }
 
 .container{
   width: 480px;
   height: 630px;
-  background: green;
+  background: linear-gradient(to right, #06beb6, #48b1bf); 
   display: flex;
   flex-direction: column;
   align-items: center;
